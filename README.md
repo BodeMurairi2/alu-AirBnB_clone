@@ -96,8 +96,3 @@ An `AUTHORS` file is included at the root of the repository. This file lists all
 * This workflow helps the team stay organized and maintain clean, stable code on the main branch.
 
 ---
-
-```
-
-👉 Do you also want me to draft the `AUTHORS` file for you in the proper Docker format?
-```
