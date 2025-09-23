@@ -66,6 +66,6 @@ All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest
 
 ## Authors:
 
-- [Adebayo seyi](https://github.com/Seyiranky)
-- [Charles Iheke](https://github.com/Charsey)
+- [Amazing Mkhonta](https://github.com/Amazing-beep)
+- [Bode Murairi](https://github.com/BodeMurairi2)
 ![HBNB Logo](hbnb_logo.png)
